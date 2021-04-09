@@ -136,7 +136,7 @@ What is the Difference between String, String Builder?
 
 IF class has three static variable, when these variable is pushed to memory and when cleanup?
 
-## Can you declare an overridden method to be static if the original method is not static?
+Can you declare an overridden method to be static if the original method is not static?
 
 Static methods cannot be overridden
 
