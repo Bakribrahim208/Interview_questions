@@ -38,19 +38,19 @@ What is different between ArrayList &amp; Array? Array is fixed size
 
 **OOP**
 
-#### What is inheritance
+What is inheritance
 
-#### What is a superclass?
+What is a superclass?
 
-#### What is a subclass?
+What is a subclass?
 
 What is final/readOnly/val keyword ?
 
-#### How to protect your class from inheritance?
+How to protect your class from inheritance?
 
-#### How to protect your method form override?
+How to protect your method form override?
 
-#### How to protect your variable form changes?
+How to protect your variable form changes?
 
 What is the default value of the local variables? Must be initialized (ides will tell you)
 
